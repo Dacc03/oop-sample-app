@@ -17,7 +17,7 @@ Sample console application to demonstrate the use of OOP principles in C#.
 # Class Diagram
 The following class diagram illustrates the relationships between the classes in the application.
 
-![Class Diagram](https://www.plantuml.vom/plantuml/proxy?src=https://raw.githubusercontent.com/Dacc03/oop-sample-app/refs/heads/main/docs/class-diagram.puml)
+![class-diagram](https://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Dacc03/oop-sample-app/refs/heads/main/docs/class-diagram.puml)
 
 See [docs/class-diagram.puml](docs/class-diagram.puml) for the PlantUML source code of the diagram.
 
