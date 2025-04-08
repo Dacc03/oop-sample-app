@@ -21,6 +21,9 @@ The following class diagram illustrates the relationships between the classes in
 
 See [docs/class-diagram.puml](docs/class-diagram.puml) for the PlantUML source code of the diagram.
 
+## User Stories
+In [docs/user-stories.md](docs/user-stories.md), you can find the user stories for the main features of the application.
+
 # Usage
 Run the application using the following command:
 
