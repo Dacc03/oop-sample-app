@@ -19,7 +19,7 @@ The following class diagram illustrates the relationships between the classes in
 
 ![Class Diagram](https://www.plantuml.vom/plantuml/proxy?src=https://raw.githubusercontent.com/Dacc03/oop-sample-app/refs/heads/main/docs/class-diagram.puml)
 
-See [docs/ClassDiagram.puml](docs/class-diagram.puml) for the PlantUML source code of the diagram.
+See [docs/class-diagram.puml](docs/class-diagram.puml) for the PlantUML source code of the diagram.
 
 # Usage
 Run the application using the following command:
